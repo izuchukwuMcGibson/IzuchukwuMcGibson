@@ -44,15 +44,6 @@ Hi there 👋 I'm **McGibson Izuchukwu**
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=izuchukwuMcGibson&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=izuchukwuMcGibson&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
