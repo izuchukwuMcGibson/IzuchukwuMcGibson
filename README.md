@@ -3,8 +3,8 @@ Hi there 👋 I'm **McGibson Izuchukwu**
 <br>  
 🤝 I'm looking to collaborate on open-source projects and backend API development.  
 👓 I'm looking for help with mastering advanced software engineering concepts and system design.  
-🌱 I'm currently learning React.js, Express.js, and MongoDB.  
-💬 Ask me about web development, APIs, or how I got started in tech.  
+🌱 I'm currently learning System Design, Data structure and algorithms , and software architecture.  
+💬 Ask me about web development, software engineering, or how I got started in tech.  
 <br>
 
 ## 🌐 Socials
