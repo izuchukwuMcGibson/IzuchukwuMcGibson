@@ -37,7 +37,7 @@ LearnSync personalizes learning by tracking each student's mastery of uploaded n
 
 CampusTrade enables students to buy and sell products within their university community, helping buyers discover affordable products from trusted nearby vendors. The platform currently serves **200+ users** at UNIZIK and is being prepared for expansion to universities across Nigeria.
 
-**Tech Stack:** TypeScript • React • Express.js • Prisma • PostgreSQL • Cloudinary
+**Tech Stack:** TypeScript • React • Express.js •MongoDB • Cloudinary
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://campustrade.site)
 
